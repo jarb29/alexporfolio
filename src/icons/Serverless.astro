@@ -1,0 +1,39 @@
+<style>
+    .serverless-icon .function {
+      animation: highlight 2s ease-in-out infinite;
+    }
+  
+    @keyframes highlight {
+      0%, 100% {
+        stroke: currentColor;
+        stroke-width: 2;
+      }
+      50% {
+        stroke: #ff9900;  /* AWS orange color */
+        stroke-width: 3;
+      }
+    }
+  </style>
+  
+  <svg
+    class="serverless-icon"
+    width="16"
+    height="16"
+    viewBox="0 0 24 24"
+    stroke-width="2"
+    stroke="currentColor"
+    fill="none"
+    stroke-linecap="round"
+    stroke-linejoin="round"
+  >
+    <path stroke="none" d="M0 0h24v24H0z" fill="none"/>
+    <path d="M3 19h18" />
+    <path d="M5 6v.01" />
+    <path d="M19 6v.01" />
+    <path d="M10 6v.01" />
+    <path d="M14 6v.01" />
+    <path class="function" d="M9 12v-3h6v3" />
+    <path class="function" d="M9 12v6h6v-6" />
+    <path class="function" d="M12 12v6" />
+  </svg>
+  

@@ -6,7 +6,7 @@
     "email": "jarb29@gamil.com",
     "phone": "+56947909645",
     "url": "https://johndoe.dev",
-    "summary": "Junior Full Stack Developer with a passion for building web applications. Currently seeking opportunities to further develop my skills in a professional setting.",
+    "summary": "Experienced data scientist with a proven track record of optimizing production processes in manufacturing using machine learning and cloud technologies. Delivers actionable insights, improves efficiency, and reduces downtime..",
     "theme": "default",
     "location": {
       "address": "",
@@ -277,6 +277,86 @@
       ]
     },
     {
+      "name": "Aws",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Serverless",
+        "Static Generation",
+        "Cloud Computing",
+        "Backend",
+        "Fullstack",
+        "Cloud Services",
+        "Infrastructure",
+      "Machine Leraning"      ]
+    },
+    {
+      "name": "Serverless",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Serverless",
+        "Static Generation",
+        "Cloud Computing",
+        "Backend",
+        "Fullstack",
+        "Cloud Services",
+        "Infrastructure",
+      "Machine Leraning"      ]
+    },
+    {
+      "name": "Pandas",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Serverless",
+        "Static Generation",
+        "Cloud Computing",
+        "Backend",
+        "Fullstack",
+        "Cloud Services",
+        "Infrastructure",
+      "Machine Leraning"      ]
+    },
+    {
+      "name": "NumPy",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Serverless",
+        "Static Generation",
+        "Cloud Computing",
+        "Backend",
+        "Fullstack",
+        "Cloud Services",
+        "Infrastructure",
+      "Machine Leraning"      ]
+    },
+    {
+      "name": "Tensorflow",
+      "level": "Intermediate",
+      "keywords": [
+        "Web Development",
+        "Frontend",
+        "React Framework",
+        "Serverless",
+        "Static Generation",
+        "Cloud Computing",
+        "Backend",
+        "Fullstack",
+        "Cloud Services",
+        "Infrastructure",
+      "Machine Leraning"      ]
+    },
+    {
       "name": "React",
       "level": "Intermediate",
       "keywords": [
@@ -314,46 +394,28 @@
   ],
   "projects": [
     {
-      "name": "Personal Portfolio",
-      "isActive": false,
-      "description": "A personal portfolio website to showcase my projects and skills.",
+      "name": "Real-Time Production Monitoring",
+      "isActive": true,
+      "description": ["This dashboard, built with React and Streamlit, helps teams make smarter decisions for smoother production.",
+      " It visualizes data in real-time, revealing bottlenecks and trends, and uses a machine learning model to predict project completion times."],
       "highlights": [
-        "Built with React and Tailwind CSS",
-        "Includes a blog and contact form"
+        "This project is built with React and Streamlit, providing a user-friendly interface for monitoring production data.",
+        "Utilizes machine learning (Scikit-learn) to predict project completion times based on historical data.",
+        "Integrates with AWS services for data storage and processing."
       ],
-      "url": "https://johndoe.dev",
-      "github": "https://github.com"
+      "url": "https://master.d1bih70hnzuwj6.amplifyapp.com/dashboard/kupfer/"
     },
     {
-      "name": "Weather App",
+      "name": "Real-Time Production Cost",
       "isActive": true,
-      "description": "A web application that provides weather information for any location.",
+      "description": ["This real-time platform empowers businesses to optimize costs through data-driven insights,",
+      " identifying inefficiencies and enabling timely adjustments for increased profitability."],
       "highlights": [
-        "Built with JavaScript and OpenWeatherMap API",
+        "This project deepened my expertise in data-driven decision-making, cloud technologies, machine learning, and data pipelines.",
+        " I gained experience with AWS services, honed my machine learning skills, and learned to effectively communicate complex data insights through visualizations.",
         "Responsive design"
       ],
-      "url": "https://weatherapp.com"
-    },
-    {
-      "name": "Task Manager",
-      "isActive": true,
-      "description": "A simple task management app to keep track of daily tasks.",
-      "highlights": [
-        "Built with Node.js and MongoDB",
-        "User authentication and CRUD operations"
-      ],
-      "url": "https://taskmanager.com",
-      "github": "https://github.com"
-    },
-    {
-      "name": "E-commerce Site",
-      "isActive": false,
-      "description": "An online store built with Next.js and Stripe for payment processing.",
-      "highlights": [
-        "Product management and shopping cart functionality",
-        "Secure payment integration"
-      ],
-      "url": "https://ecommerce.com"
+      "url": "https://master.d1bih70hnzuwj6.amplifyapp.com/dashboard/kupfer/"
     }
   ]
 }

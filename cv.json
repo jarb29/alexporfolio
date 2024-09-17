@@ -416,6 +416,17 @@
         "Responsive design"
       ],
       "url": "https://master.d1bih70hnzuwj6.amplifyapp.com/dashboard/kupfer/"
+    },
+    {
+      "name": "Real-Time Crypto Predictor",
+      "isActive": false,
+      "description": ["Powered by clustering, RNNs, and Binance API data.", 
+      " The system demonstrably improved trading efficiency and reduced risk through timely alerts and optimized entry/exit points."],
+      "highlights": [
+        "This project demanded a comprehensive skill set, encompassing machine learning principles, RNN expertise, clustering algorithms, data preprocessing, Python programming, API integration, AWS Lambda deployment, and Streamlit dashboard development.",
+        "My role encompassed model development and training, clustering analysis, feature engineering, data preprocessing, system integration, and deployment & monitoring."
+      ],
+      "url": "https://master.d1bih70hnzuwj6.amplifyapp.com/dashboard/kupfer/"
     }
   ]
 }
